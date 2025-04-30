@@ -61,6 +61,13 @@
 </p>
 
 ---
+### 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Samudini-Chamodya" alt="GitHub Contributions Chart">
+</p>
+
+---
 
 
 ## 💡 Random Dev Quote
