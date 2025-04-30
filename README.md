@@ -66,13 +66,6 @@
 
 ---
 
-## 🔥 Language & Tool Usage Breakdown
-
-> Updated automatically using [Metrics](https://github.com/workflows/metrics)
-
-![Metrics](https://raw.githubusercontent.com/Samudini-Chamodya/Samudini-Chamodya/main/github-metrics.svg)
-
----
 
 ## 💡 Random Dev Quote
 
