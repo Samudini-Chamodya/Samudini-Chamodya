@@ -68,7 +68,7 @@
 
 ## 🔥 Language & Tool Usage Breakdown
 
-> Updated automatically using [Metrics](https://github.com/lowlighter/metrics)
+> Updated automatically using [Metrics](https://github.com/Samudini-Chamodya/metrics)
 
 ![Metrics](https://raw.githubusercontent.com/Samudini-Chamodya/Samudini-Chamodya/main/github-metrics.svg)
 
