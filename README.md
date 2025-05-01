@@ -60,14 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samudini-Chamodya&layout=compact&theme=github_dark" />
 </p>
 
----
-### 📈 Contribution Graph:
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Samudini-Chamodya" alt="GitHub Contributions Chart">
-</p> 
-
----
 
 
 ## 💡 Random Dev Quote
