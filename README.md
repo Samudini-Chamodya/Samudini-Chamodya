@@ -62,10 +62,10 @@
 
 ---
 ### 📈 Contribution Graph:
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/Samudini-Chamodya" alt="GitHub Contributions Chart">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samudini-Chamodya&bg_color=1F222E&color=57F287&line=57F287&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
+
 
 ---
 
