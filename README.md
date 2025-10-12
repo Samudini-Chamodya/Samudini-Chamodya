@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning **AWS, Terraform, Kubernetes, Jenkins, and GitHub Actions**
+- 🌱 Currently learning **AWS, Azure, Terraform, Kubernetes, Jenkins, and GitHub Actions**
 - 💬 Ask me about anything **Cloud | DevOps | CI/CD | Automation**
 - 🛠️ Passionate about **Infrastructure as Code** and **Cloud Native Technologies**
 - 📫 How to reach me: **samudinirupasinha@gmail.com**
